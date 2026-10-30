@@ -2,6 +2,8 @@
 
 A full-stack starter project using React + TypeScript, Node.js + Express, and PostgreSQL.
 
+![DevTrack dashboard](screenshots/dashboard.png)
+
 ## Features
 - Register and login with JWT
 - Protected issue API
